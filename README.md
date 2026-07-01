@@ -162,7 +162,7 @@ Open source usage follows GPLv2 terms.
 
 For commercial licensing inquiries:
 
-contact: [your-email@example.com](mailto:your-email@example.com)
+contact: kurniaadityareynaldi@ymail.com
 
 ---
 
