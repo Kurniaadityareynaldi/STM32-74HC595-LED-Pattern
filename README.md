@@ -1,3 +1,5 @@
+STM32 HAL-based driver for controlling cascaded 74HC595 shift registers with programmable and animated LED patterns, including directional arrows, cross indicators, and custom LED displays.
+
 # STM32 74HC595 LED Pattern Driver
 
 STM32 HAL library for controlling multiple 74HC595 shift registers with animated LED patterns such as:
