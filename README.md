@@ -135,22 +135,6 @@ while (1)
 
 ---
 
-## Project Structure
-
-```text
-├── Core/
-│   ├── Inc/
-│   │   ├── main.h
-│   │   └── 74HC595.h
-│   └── Src/
-│       ├── main.c
-|       └── 74HC595.c
-├── LICENSE
-├── LICENSE-GPLv2
-└── README.md
-```
-
----
 
 ## License
 
@@ -169,6 +153,8 @@ contact: kurniaadityareynaldi@ymail.com
 
 ## Author
 
-Kurnia Aditya Reynaldi
+**Kurnia Aditya Reynaldi**
+
+Electrical Engineer | Embedded Systems | Control Systems
 
 Contributions, issues, and pull requests are welcome.
